@@ -11,8 +11,17 @@ Code block : Usually speaker notes (sometimes code but that's obvious)
 Download Godot [here](https://godotengine.org/download/windows/)
 **CLICK ON Godot Engine!!**
 
+# Presentation/Lesson
+Slideshow link [here](https://docs.google.com/presentation/d/1D-0J9SxASCg1v7ZVO4I4esNTt8rLHmEKl5QYFr4FwRY/edit?usp=sharing)
+
+*Start: Title slide (Learn Godot)*
 ```
-start downloading it now as I am going to start yapping (WARNING)
+Hi! Today we are going to be learning HacKSU. I'm Godot and this is Andrew Roddy. (ns)
+```
+Download Godot Engine [here](https://godotengine.org/download/windows/) (NOT .NET)
+
+```
+Make sure you start downloading it now as I am going to start yapping (WARNING)
 ```
 
 **Regular**: GDScript, C++, VisualScript; full capabilities
