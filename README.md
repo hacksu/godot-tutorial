@@ -62,3 +62,9 @@ Show Markaplier mobile game [thumbnail](https://i.ytimg.com/vi/4B3Wnoz5SJE/maxre
 Anyways, time to actually make a video game.
 ```
 Tab out of slideshow
+
+Alright so today we are going to be creating a very simple pong-like game.
+
+Now I chose this game for two reasons.
+One, it is very easy to make
+Two, I have already made it multiple times in Godot
