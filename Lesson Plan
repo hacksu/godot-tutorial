@@ -1,0 +1,32 @@
+# Godot Tutorial
+Learn Godot :) This will teach you how to built a Godot app!
+
+### Download
+Download Godot [here](https://godotengine.org/download/windows/) (NOT .NET)
+**CLICK ON Godot Engine!!**
+
+--- 
+# Godot Lesson Plan
+
+### **Creating the Project**
+
+Press `+ Create` in the top left of the screen.
+
+`Project Name: Despaired Cat Game Tutorial` 
+
+`Renderer: [X] Compatibility` 
+
+Click `[Create & Edit]` 
+
+### **Scene**
+Under `Create Root Node:` in the top left press `[2D Scene]`. This creates the root node.
+
+### **Character Body 2D**
+Press the `+` button in the top left
+Use the search icon to look up `CharacterBody2D` and click `Create`. 
+
+### **Collision**
+Then, with your CharacterBody2D selected, press the plus again. Now search up `CollisionShape2D` and press `Create`. After this press the plus icon again and look up `Sprite2D` and press `Create`. 
+
+### **Hierarchy**
+So immediately you will see that, if you did it wrong, 
