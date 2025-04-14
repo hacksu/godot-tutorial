@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://chbbpogg3k2co"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Cat" type="CharacterBody2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Cat"]
+
+[node name="Sprite2D" type="Sprite2D" parent="Cat"]
