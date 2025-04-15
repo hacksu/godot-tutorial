@@ -9,8 +9,7 @@
 position = Vector2(0, -2)
 
 [node name="Cat" type="CharacterBody2D" parent="."]
-position = Vector2(941, 890)
-scale = Vector2(8.47375, 8.47375)
+position = Vector2(574, 327)
 script = ExtResource("1_pojx8")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Cat"]
@@ -19,5 +18,3 @@ shape = SubResource("RectangleShape2D_g8iny")
 [node name="Sprite2D" type="Sprite2D" parent="Cat"]
 scale = Vector2(0.0224216, 0.0224215)
 texture = ExtResource("1_l2uci")
-
-[node name="Node" type="Node" parent="."]
